@@ -2,7 +2,7 @@
 <img width="100%" height = "100%" src="https://imgur.com/TvjHWFJ.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! </h1>
+<h1> Hello Fellow <Developers/>! </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Swiiz.Swiiz)
