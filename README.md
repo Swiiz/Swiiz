@@ -20,9 +20,9 @@
 
 - 🌱 I’m currently learning A bit of everything as always! 
 
-- 👯 I’m looking to collaborate on Maths related projects 
+- 👯 I’m looking to collaborate on Rendering/Backend related projects 
 
-- 💬 Talk to me about C++, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Rust, Open Source and Freelancing Opportunites.
 
 <h2> Skills </h2>
 <a href= https://github.com/Swiiz?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
