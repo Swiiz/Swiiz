@@ -44,7 +44,7 @@
 ```JSON
 {
   "discord": "Swiiz#8862",
-  "website": "https://swiiz.net/",
+  "website": "https://swiiz.net/?Not-sure-it-is-still-alive",
   "github": "https://github.com/Swiiz"
 }
 ```
