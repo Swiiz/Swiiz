@@ -15,6 +15,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 🏆 My language of choice is currently rust, but i'm also fluent in javascript, java and C/C++.
 
 - 🌱 I’m currently learning A bit of everything as always! 
 
