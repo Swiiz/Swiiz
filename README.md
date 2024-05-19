@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "100%" src="https://imgur.com/TvjHWFJ.jpg" alt="cover" />
-</div>
-
 <h1> Hello fellow devs! </h1>
 <p align='center'>
 
@@ -15,11 +11,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🏆 My language of choice is currently rust, but i'm also fluent in javascript, java and C/C++.
+- 🏆 My language of choice is currently rust, but i'm also fluent in C/C+, java and javascript.
 
-- 🌱 I’m currently learning A bit of everything as always! 
+- 🌱 I’m currently working on my game engine!
 
-- 👯 I’m looking to collaborate on Rendering/Backend related projects 
+- 👯 I’m looking to collaborate on rendering / backend / science related projects 
 
 - 💬 Talk to me about Rust, Open Source and Freelancing or Remote Opportunites.
 
@@ -43,8 +39,7 @@
 
 ```JSON
 {
-  "discord": "Swiiz#8862",
-  "website": "https://swiiz.net/?Not-sure-it-is-still-alive",
+  "discord": "__swiiz",
   "github": "https://github.com/Swiiz"
 }
 ```
