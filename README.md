@@ -9,7 +9,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🏆 My language of choice is currently rust, but i'm also fluent in C (C++), java and javascript.
+- 🏆 My language of choice is Rust, but I’m also fluent in Java, Python, JavaScript, and C/C++.
 
 - 🌱 I’m currently working on my game engine!
 
